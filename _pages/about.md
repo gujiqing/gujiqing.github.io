@@ -21,18 +21,19 @@ Biography
 ======
 - 2017.09-Present, PhD candidate (successive master-doctor program), [School of Computer Science and Engineering](https://www.scse.uestc.edu.cn/), [University of Electronics Science and Technology of China](https://www.uestc.edu.cn/), Chengdu, China.    
 Supervisor: Professor [Ming Liu](https://scholar.google.com/citations?user=kpZq6QwAAAAJ&hl=zh-CN), Assosiate Professor [Chao Song](https://yjsjy.uestc.edu.cn/gmis/jcsjgl/dsfc/dsgrjj/11695?yxsh=08).
-    - 2021.03-2022.03, Visiting student in Unversity of Toronto, Toronto, Canada (under the grant of China Scholarship Council (CSC)), Supervisor: Professor [Baochun Li](https://iqua.ece.toronto.edu/bli/).
+    - 2021.03-2022.03, Visiting student in Unversity of Toronto, Toronto, Canada (under the grant of China Scholarship Council (CSC)). Supervisor: Professor [Baochun Li](https://iqua.ece.toronto.edu/bli/).
 - 2016.09-2018.06: M.S., [School of Computer Science and Engineering](https://www.scse.uestc.edu.cn/), [University of Electronics Science and Technology of China](https://www.uestc.edu.cn/), Chengdu, China.  
 Supervisor: Assosiate Professor, [Chao Song](https://yjsjy.uestc.edu.cn/gmis/jcsjgl/dsfc/dsgrjj/11695?yxsh=08).
 - 2010.09-2014.07 B.S., [College of Information Engineering](https://dx.haust.edu.cn/), [Henan University of Science and Technology](https://www.haust.edu.cn/), Luoyang, China
 
 Research Interests
 ======
-__Computer network__: Crowdsensing, mobile computing, graph stream mining  
-__Mechine learning__: recommender system, graph neural networks.
+- __Computer network__: Crowdsensing, mobile computing, graph stream mining  
+- __Mechine learning__: recommender system, graph neural networks.
 
 Publications
 ======
+
 Conference Papers
 ------
 - __Jiqing Gu__, Chao Song, Wenjun Jiang, Xiaomin Wang, Ming Liu, “Enhancing Personalized Trip Recommendation with Attractive Routes”, Proc. of Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI 2020, CCF A)
