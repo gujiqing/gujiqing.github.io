@@ -24,7 +24,7 @@ Supervisor: Professor [Ming Liu](https://scholar.google.com/citations?user=kpZq6
     - 2021.03-2022.03, Visiting student in Unversity of Toronto, Toronto, Canada (under the grant of China Scholarship Council (CSC)). Supervisor: Professor [Baochun Li](https://iqua.ece.toronto.edu/bli/).
 - 2015.09-2017.06, M.S., [School of Computer Science and Engineering](https://www.scse.uestc.edu.cn/), [University of Electronics Science and Technology of China](https://www.uestc.edu.cn/), Chengdu, China.  
 Supervisor: Assosiate Professor, [Chao Song](https://yjsjy.uestc.edu.cn/gmis/jcsjgl/dsfc/dsgrjj/11695?yxsh=08).
-- 2010.09-2014.07 B.S., [College of Information Engineering](https://dx.haust.edu.cn/), [Henan University of Science and Technology](https://www.haust.edu.cn/), Luoyang, China
+- 2010.09-2014.07, B.S., [College of Information Engineering](https://dx.haust.edu.cn/), [Henan University of Science and Technology](https://www.haust.edu.cn/), Luoyang, China
 
 Research Interests
 ======
