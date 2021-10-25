@@ -10,7 +10,6 @@ redirect_from:
 ---
 
 
-# Jiqing Gu 
 ## Contact
 gujiqing@std.uestc.edu.cn
 
