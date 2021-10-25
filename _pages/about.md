@@ -32,8 +32,7 @@ Research Interests
 - __Mechine learning__: recommender system, graph neural networks.
 
 Publications
-======
-
+======  
 Conference Papers
 ------
 - __Jiqing Gu__, Chao Song, Wenjun Jiang, Xiaomin Wang, Ming Liu, “Enhancing Personalized Trip Recommendation with Attractive Routes”, Proc. of Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI 2020, CCF A)
