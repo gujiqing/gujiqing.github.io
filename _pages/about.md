@@ -36,5 +36,6 @@ Supervisor: Assosiate Professor, [Chao Song](https://yjsjy.uestc.edu.cn/gmis/jcs
 ### Journal Articles
 - Xu Yang, Chao Song, Mengdi Yu, __Jiqing Gu__, Ming Liu, “Distributed Triangle Approximately Counting Algorithms in Simple Graph Stream”, ACM Transactions on Knowledge Discovery from Data (TKDD), (JCR Q2).
 
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=l61t64KeJ2qC20tHGRo80k4lF6CmUlmSQjl6gyDCHWc&cl=ffffff&w=a"></script>
 
 
