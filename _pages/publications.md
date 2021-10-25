@@ -5,7 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Publications
 ### Conference Papers
 - __Jiqing Gu__, Chao Song, Wenjun Jiang, Xiaomin Wang, Ming Liu, “Enhancing Personalized Trip Recommendation with Attractive Routes”, Proc. of Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI 2020, CCF A)
 - __Jiqing Gu__, Chao Song, Lei Shi, Haigang Gong, Ming Liu, “Pedestrian Flow Prediction with Business Events”, Proc. of International Conference on Mobile Ad-hoc and Sensor Networks (IEEE MSN 2019, CCF C). Best Paper Candidate.
