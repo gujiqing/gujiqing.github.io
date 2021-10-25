@@ -104,12 +104,13 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"chrirupp"
+  twitter          :
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
+  visitor_map      : <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=l61t64KeJ2qC20tHGRo80k4lF6CmUlmSQjl6gyDCHWc&cl=ffffff&w=a"></script>
 
 
 # Reading Files
