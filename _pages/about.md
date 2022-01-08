@@ -40,5 +40,8 @@ Supervisor: Assosiate Professor, [Chao Song](https://yjsjy.uestc.edu.cn/gmis/jcs
 ## Recent Visit
 
 <a href="https://clustrmaps.com/site/1bkry"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=l61t64KeJ2qC20tHGRo80k4lF6CmUlmSQjl6gyDCHWc&cl=ffffff" /></a>
- 
-
+ <br>
+<!-- hitwebcounter Code START -->
+<a href="https://www.hitwebcounter.com" target="_blank">
+<img src="https://hitwebcounter.com/counter/counter.php?page=7923477&style=0006&nbdigits=5&type=page&initCount=0" title="Free Counter" Alt="web counter"   border="0" /></a>     
+</a> visitor since Jan. 8, 2022. 
