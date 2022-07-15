@@ -32,6 +32,7 @@ Supervisor: Assosiate Professor, [Chao Song](https://yjsjy.uestc.edu.cn/gmis/jcs
 - Mengdi Yu, Chao Song, __Jiqing Gu__, Ming Liu, “Distributed Triangle Counting Algorithms in Simple Graph Stream”, Proc. of International Conference on Parallel and Distributed Systems (ICPADS 2019, CCF C).
 - Chao Song, __Jiqing Gu__, Yongqiang Qi, Lei Shi, Ming Liu, “Towards Cascading Problem for Dynamic Rate Allocations in ISP Networks with SDN”, Proc. of International Conference on Mobile Ad-hoc and Sensor Networks (IEEE MSN 2019, CCF C).
 - Chao Song, __Jiqing Gu__, Ming Liu, “Deployment Mechanism Design for Cost-Effective Data Uploading in Delay-Tolerant Crowdsensing”, Proc. of the 15th IEEE International Symposium on Parallel and Distributed Processing with Applications (IEEE ISPA 2017, CCF C).
+- __Jiqing Gu__, Chao Song, Siqi Liao, Hongwei Li, Ming Liu, and Jie Wu“Generation Rate Control with AoI under Traffic Hole Problem in Vehicular Networks", 2022 ITU Journal on Future and Evolving Technologies.
 
 ### Journal Articles
 - Xu Yang, Chao Song, Mengdi Yu, __Jiqing Gu__, Ming Liu, “Distributed Triangle Approximately Counting Algorithms in Simple Graph Stream”, ACM Transactions on Knowledge Discovery from Data (TKDD), (JCR Q2).
