@@ -36,6 +36,7 @@ Supervisor: Assosiate Professor, [Chao Song](https://yjsjy.uestc.edu.cn/gmis/jcs
 ### Journal Articles
 - Xu Yang, Chao Song, Mengdi Yu, __Jiqing Gu__, Ming Liu, “Distributed Triangle Approximately Counting Algorithms in Simple Graph Stream”, ACM Transactions on Knowledge Discovery from Data (TKDD), (SCI 3区, CCF B).
 - __Jiqing Gu__, Chao Song, Zheng Ren, Wenjun Jiang, Ming Liu, Li Lu, “Pedestrian Flow Prediction and Route Recommendation with Business Events", Sensors (SCI 3区).
+- __Jiqing Gu__, Chao Song, Haipeng Dai, Lei Shi, Jinqiu Wu, Li Lu, “ACM: Accuracy-aware Collaborative Monitoring for Software-Defined Network-wide Measurement”, Sensors 2022, (SCI 3区).
 
 
 
