@@ -33,7 +33,7 @@ Supervisor: Assosiate Professor, [Chao Song](https://yjsjy.uestc.edu.cn/gmis/jcs
 - Chao Song, __Jiqing Gu__, Yongqiang Qi, Lei Shi, Ming Liu, “Towards Cascading Problem for Dynamic Rate Allocations in ISP Networks with SDN”, Proc. of International Conference on Mobile Ad-hoc and Sensor Networks (IEEE MSN 2019, CCF C).
 - Chao Song, __Jiqing Gu__, Ming Liu, “Deployment Mechanism Design for Cost-Effective Data Uploading in Delay-Tolerant Crowdsensing”, Proc. of the 15th IEEE International Symposium on Parallel and Distributed Processing with Applications (IEEE ISPA 2017, CCF C).
 - __Jiqing Gu__, Chao Song, Siqi Liao, Hongwei Li, Ming Liu, and Jie Wu, “Generation Rate Control with AoI under Traffic Hole Problem in Vehicular Networks", 2022 ITU Journal on Future and Evolving Technologies.
-- Yihang Song, Li Lu, __Jiqing Gu__, Chong Zhang, “Realizing Power-efficient Encryption Communication for Computational RFID Tags", The 10th International Conference on Advanced Cloud and Big Data 2022. __Best student paper__.
+- Yihang Song, Li Lu, __Jiqing Gu__, Chong Zhang, “Realizing Power-efficient Encryption Communication for Computational RFID Tags", The 10th International Conference on Advanced Cloud and Big Data 2022. __Best Student Paper__.
 ### Journal Articles
 - Xu Yang, Chao Song, Mengdi Yu, __Jiqing Gu__, Ming Liu, “Distributed Triangle Approximately Counting Algorithms in Simple Graph Stream”, ACM Transactions on Knowledge Discovery from Data (TKDD), (SCI 3区, CCF B).
 - __Jiqing Gu__, Chao Song, Zheng Ren, Wenjun Jiang, Ming Liu, Li Lu, “Pedestrian Flow Prediction and Route Recommendation with Business Events", Sensors (SCI 3区).
