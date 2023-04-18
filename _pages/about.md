@@ -14,7 +14,7 @@ redirect_from:
 gujiqing@std.uestc.edu.cn
 
 ## Biography
-- 2017.09-Present, PhD candidate (successive master-doctor program), [School of Computer Science and Engineering](https://www.scse.uestc.edu.cn/), [University of Electronics Science and Technology of China](https://www.uestc.edu.cn/), Chengdu, China.    
+- 2017.09-2022.12, PhD candidate (successive master-doctor program), [School of Computer Science and Engineering](https://www.scse.uestc.edu.cn/), [University of Electronics Science and Technology of China](https://www.uestc.edu.cn/), Chengdu, China.    
 Supervisor: Professor [Ming Liu](https://scholar.google.com/citations?user=kpZq6QwAAAAJ&hl=zh-CN), Assosiate Professor [Chao Song](https://yjsjy.uestc.edu.cn/gmis/jcsjgl/dsfc/dsgrjj/11695?yxsh=08).
     - 2021.03-2022.03, Visiting student in Unversity of Toronto, Toronto, Canada (under the grant of China Scholarship Council (CSC)). Supervisor: Professor [Baochun Li](https://iqua.ece.toronto.edu/bli/).
 - 2015.09-2017.06, M.S., [School of Computer Science and Engineering](https://www.scse.uestc.edu.cn/), [University of Electronics Science and Technology of China](https://www.uestc.edu.cn/), Chengdu, China.  
@@ -36,8 +36,8 @@ Supervisor: Assosiate Professor, [Chao Song](https://yjsjy.uestc.edu.cn/gmis/jcs
 - Yihang Song, Li Lu, __Jiqing Gu__, Chong Zhang, “Realizing Power-efficient Encryption Communication for Computational RFID Tags", The 10th International Conference on Advanced Cloud and Big Data 2022. __Best Student Paper__.
 ### Journal Articles
 - Xu Yang, Chao Song, Mengdi Yu, __Jiqing Gu__, Ming Liu, “Distributed Triangle Approximately Counting Algorithms in Simple Graph Stream”, ACM Transactions on Knowledge Discovery from Data (TKDD), (SCI 3区, CCF B).
-- __Jiqing Gu__, Chao Song, Zheng Ren, Wenjun Jiang, Ming Liu, Li Lu, “Pedestrian Flow Prediction and Route Recommendation with Business Events", Sensors (SCI 3区).
-- __Jiqing Gu__ Chao Song, Haipeng Dai, Lei Shi, Jinqiu Wu, Li Lu, “ACM: Accuracy-aware Collaborative Monitoring for Software-Defined Network-wide Measurement”, Sensors 2022, (SCI 3区).
+- __Jiqing Gu__, Chao Song, Zheng Ren, Wenjun Jiang, Ming Liu, Li Lu, “Pedestrian Flow Prediction and Route Recommendation with Business Events", Sensors (SCI 2区).
+- __Jiqing Gu__ Chao Song, Haipeng Dai, Lei Shi, Jinqiu Wu, Li Lu, “ACM: Accuracy-aware Collaborative Monitoring for Software-Defined Network-wide Measurement”, Sensors 2022, (SCI 2区).
 
 
 
