@@ -14,7 +14,7 @@ redirect_from:
 gujiqing@cuit.edu.cn
 
 ## Biography
--2023.05-Present: Lecturer at [School of Computer Science] (https://jsjxy.cuit.edu.cn/), [Chengdu University of Information Technology](https://www.cuit.edu.cn/), Chengdu, Sichuan, China
+-2023.05-Present: Lecturer at [School of Computer Science](https://jsjxy.cuit.edu.cn/), [Chengdu University of Information Technology](https://www.cuit.edu.cn/), Chengdu, Sichuan, China
 - 2017.09-2022.12, PhD candidate (successive master-doctor program), [School of Computer Science and Engineering](https://www.scse.uestc.edu.cn/), [University of Electronics Science and Technology of China](https://www.uestc.edu.cn/), Chengdu, China.    
 Supervisor: Professor [Ming Liu](https://scholar.google.com/citations?user=kpZq6QwAAAAJ&hl=zh-CN), Assosiate Professor [Chao Song](https://yjsjy.uestc.edu.cn/gmis/jcsjgl/dsfc/dsgrjj/11695?yxsh=08).
     - 2021.03-2022.03, Visiting student in Unversity of Toronto, Toronto, Canada (under the grant of China Scholarship Council (CSC)). Supervisor: Professor [Baochun Li](https://iqua.ece.toronto.edu/bli/).
