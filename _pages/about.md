@@ -23,7 +23,7 @@ Supervisor: Assosiate Professor, [Chao Song](https://yjsjy.uestc.edu.cn/gmis/jcs
 - 2010.09-2014.07, B.S., [College of Information Engineering](https://dx.haust.edu.cn/), [Henan University of Science and Technology](https://www.haust.edu.cn/), Luoyang, China
 
 ## Research Interests
-- __Computer network__: Crowdsensing, graph stream mining.  
+- __Computer network__: Crowdsensing, graph stream mining, distributed network.  
 - __Mechine learning__: Federated learning, recommender system, graph neural networks.
 
 ## Publications
