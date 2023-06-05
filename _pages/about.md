@@ -40,7 +40,10 @@ Supervisor: Assosiate Professor, [Chao Song](https://yjsjy.uestc.edu.cn/gmis/jcs
 - __Jiqing Gu__, Chao Song, Zheng Ren, Wenjun Jiang, Ming Liu, Li Lu, “Pedestrian Flow Prediction and Route Recommendation with Business Events", Sensors (SCI 2区).
 - __Jiqing Gu__ Chao Song, Haipeng Dai, Lei Shi, Jinqiu Wu, Li Lu, “ACM: Accuracy-aware Collaborative Monitoring for Software-Defined Network-wide Measurement”, Sensors 2022, (SCI 2区).
 
-
+## Professional Activities
+### Paper Reviewer for Journals
+- IEEE Transactions on Network Science and Engineering (TNSE).
+- Journal of Systems Architecture (JSA).
 
 ## Recent Visit
 
