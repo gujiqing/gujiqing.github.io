@@ -11,7 +11,7 @@ redirect_from:
 
 
 ## Contact
-gujiqing@cuit.edu.cn
+gujiqing(at)cuit.edu.cn (联系时(at)替换为@)
 
 ## Biography
 - 2023.05-Present: Lecturer at [School of Computer Science](https://jsjxy.cuit.edu.cn/), [Chengdu University of Information Technology](https://www.cuit.edu.cn/), Chengdu, Sichuan, China.
