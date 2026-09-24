@@ -47,12 +47,12 @@ Supervisor: Assosiate Professor, [Chao Song](https://yjsjy.uestc.edu.cn/gmis/jcs
 - __Jiqing Gu__, Chao Song, Wenjun Jiang, Li Lu, Ming Liu, “Enhancing Personalized Trip Recommendations with Attractive RouteAnalysis and Graph Attention Auto-Encoder”,  Knowledge-Based Systems (KBS) 2025, (中科院1区)
 - 康雪娟, __顾记清__, 彭静, 吴锡, 王铁军*，“知识表示增强的多模态知识图谱补全方法”，计算机工程与应用, 2025
 -  __Jiqing Gu__, Chao Song, Jie Wu, Li Lu, Ming Liu, “Unilateral Control for Social Welfare of Iterated Game in Mobile Crowdsensing”, Journal of Computer Science and Technology (JCST) 2025, (中科院 3区, CCF B).
--  __Jiqing Gu__, Chao Song, Haipeng Dai, Li Lu, Ming Liu, “Compact Estimator for Streaming Triangle Counting”, Transactions on Knowledge and Data Engineering (TKDE), 2024, (中科院 1区, CCF A).
--  Xu Yang, Chao Song, __Jiqing Gu__, Ke Li, Hongwei Li, “Distributed Streaming Framework for Edge-Cloud Triangle Counting in Graph Streams”, Knowledge-Based Systems (KBS) 2023, (中科院 1区).
+- __Jiqing Gu__, Chao Song, Haipeng Dai, Li Lu, Ming Liu, “Compact Estimator for Streaming Triangle Counting”, Transactions on Knowledge and Data Engineering (TKDE), 2024, (中科院 1区, CCF A).
+- Xu Yang, Chao Song, __Jiqing Gu__, Ke Li, Hongwei Li, “Distributed Streaming Framework for Edge-Cloud Triangle Counting in Graph Streams”, Knowledge-Based Systems (KBS) 2023, (中科院 1区).
 - Xu Yang, Chao Song, Mengdi Yu, __Jiqing Gu__, Ming Liu, “Distributed Triangle Approximately Counting Algorithms in Simple Graph Stream”, ACM Transactions on Knowledge Discovery from Data (TKDD), 2022 (中科院 3区, CCF B).
 - __Jiqing Gu__, Chao Song, Zheng Ren, Wenjun Jiang, Ming Liu, Li Lu, “Pedestrian Flow Prediction and Route Recommendation with Business Events", Sensors 2022 (中科院 2区).
 - __Jiqing Gu__, Chao Song, Haipeng Dai, Lei Shi, Jinqiu Wu, Li Lu, “ACM: Accuracy-aware Collaborative Monitoring for Software-Defined Network-wide Measurement”, Sensors 2022, (中科院 2区).
-- - __Jiqing Gu__, Chao Song, Siqi Liao, Hongwei Li, Ming Liu, and Jie Wu, “Generation Rate Control with AoI under Traffic Hole Problem in Vehicular Networks", 2022 ITU Journal on Future and Evolving Technologies.
+-  __Jiqing Gu__, Chao Song, Siqi Liao, Hongwei Li, Ming Liu, and Jie Wu, “Generation Rate Control with AoI under Traffic Hole Problem in Vehicular Networks", 2022 ITU Journal on Future and Evolving Technologies.
 -  
 ## Professional Activities
 ### Paper Reviewer for Journals
