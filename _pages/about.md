@@ -28,7 +28,7 @@ Supervisor: Assosiate Professor, [Chao Song](https://yjsjy.uestc.edu.cn/gmis/jcs
 
 ## Publications
 ### Conference Papers
--Jiaqi Li, Shaohuai Shi , Jing Peng, Tiejun Wang, Jiqing Gu, Xi Wu. “Low-bit and Sparsified Gradient Communication for Accelerating Distributed Deep Learning with Convergence Guarantees”. Proceedings of the 55th International Conference on Parallel Processing (ICPP 2026), Singapore, 2026,(CCF B会).
+- Jiaqi Li, Shaohuai Shi , Jing Peng, Tiejun Wang, Jiqing Gu, Xi Wu. “Low-bit and Sparsified Gradient Communication for Accelerating Distributed Deep Learning with Convergence Guarantees”. Proceedings of the 55th International Conference on Parallel Processing (ICPP 2026), Singapore, 2026,(CCF B会).
 - Hao Yao, Xi Wu, Tiejun Wang, __Jiqing Gu__, Jing Peng. “SelCo: Efficient Distributed Multimodal LLM Training with Selective Co-location”,  Proceedings of the 22nd International Conference on Intelligent Computing (ICIC 2026), Toronto, Canada, 2026. (CCF C会).
 - __Jiqing Gu__, Chao Song, Jianfeng Huang, Jie Wu, Ruilin Hu, Li Lu, “Social Welfare Control and Incentive for Free-Riding in Cross-Silo FL-based Caching”, ICASSP 2026, (CCF B会).
 - Rudai Liang, __Jiqing Gu__*, Jing Peng, Tiejun Wang and Xi Wu，“Heterogeneous GPU Cluster Scheduler for Multi-Objective Optimization”, ICIMCT, 2025.
